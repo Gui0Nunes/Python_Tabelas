@@ -1,0 +1,4 @@
+BIBLIOTECAS UTILIZADAS
+
+pip install pandas
+pip install openpyxl
